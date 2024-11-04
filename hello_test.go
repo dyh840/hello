@@ -4,7 +4,7 @@ package hello_test
 import (
         "testing"
         "fmt"
-        "github.com/246859/hello"
+        "github.com/dyh840/hello"
 )
 
 func TestHello(t *testing.T) {
