@@ -3,7 +3,7 @@ package main
 
 import (
 	"flag"
-	"github.com/246859/hello"
+	"github.com/dyh840/hello"
 	"os"
 )
 
