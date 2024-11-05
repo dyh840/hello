@@ -4,11 +4,11 @@ just say hello
 ## Install
 import code
 ```bash
-go get github.com/246859/hello@latest
+go get github.com/dyh840/hello@latest
 ```
 install cmd
 ````bash
-go install github.com/246859/hello/cmd/hello@latest
+go install github.com/dyh840/hello/cmd/hello@latest
 ````
 
 ## Example
@@ -18,7 +18,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/246859/hello"
+	"github.com/dyh840/hello"
 )
 
 func main() {
